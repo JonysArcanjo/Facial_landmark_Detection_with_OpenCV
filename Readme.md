@@ -1,5 +1,6 @@
 # Facial landmark Detection with OpenCV
 
+![CAPA Medium (2)](https://github.com/JonysArcanjo/Facial_landmark_Detection_with_OpenCV/assets/48812740/1dcf2dee-902b-40cd-a16e-ff97918397fc)
 
 
 ## Project Objective
@@ -37,6 +38,14 @@ This project requires the following libraries:
 Through the two scripts presented, it becomes clear how accessible and effective the construction of a facial landmark detection system is. With the right tools and libraries, it's possible to demystify its complexity and implement it in a simplified manner. 
 
 This ability to identify and mark specific points on the face opens doors to a range of applications, from facial recognition to deeper analyses of expressions and emotions. By mastering these scripts, we can venture into new horizons in computer vision and further explore the potentialities of facial detection.
+
+## Contact
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/jonysarcanjo/)
+
+[![Medium](https://img.icons8.com/color/32/000000/medium-logo.png)](https://medium.com/@jonysarcanjo)
+
+e-mail: contato.jonysarcanjo@gmail.com
+
 
 ## License
 
