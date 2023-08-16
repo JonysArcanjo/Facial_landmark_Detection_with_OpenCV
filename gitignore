@@ -1,0 +1,7 @@
+
+# Ignore Data directory
+/Data/
+
+# Ignore Jupyter Notebook files
+*.ipynb
+.dat
