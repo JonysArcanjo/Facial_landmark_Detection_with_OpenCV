@@ -7,7 +7,7 @@
 This repository contains a Python script that uses `dlib` and `OpenCV` for facial detection in images. Once a face is detected, it identifies and visualizes 68 facial landmarks. These landmarks represent various key points on a face, such as the corners of the eyes, the tip of the nose, etc. 
 
 **Features**:
-- Detect faces in images.
+- Detect faces in images and videos.
 - Mark 68 facial landmarks on detected faces.
 - Visual display of facial landmarks on the original image.
 
